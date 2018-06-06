@@ -53,7 +53,8 @@ namespace Windows
                 {
                     Location = new Point(Location.X - checkX, Location.Y);
                 }
-            }else if (move == 1)
+            }
+            else if (move == 1)
             {
                 if (Location.Y < 6)
                 {
@@ -76,7 +77,8 @@ namespace Windows
                 {
                     Location = new Point(Location.X + checkX, Location.Y);
                 } 
-            }else if (move == 3)
+            }
+            else if (move == 3)
             {
                 if (Location.Y > Screen.PrimaryScreen.Bounds.Size.Height - (ClientSize.Height + 45))
                 {
