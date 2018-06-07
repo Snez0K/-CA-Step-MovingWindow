@@ -4,13 +4,13 @@ using System.Windows.Forms;
 
 namespace Windows
 {
-    public partial class Windows : Form
+    public partial class Window : Form
     {
         private int move = -1;
         private int checkX = 6;
         private int checkY = 6;
 
-        public Windows()
+        public Window()
         {
             InitializeComponent();
         }

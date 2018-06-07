@@ -10,7 +10,7 @@ namespace Windows
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Windows());
+            Application.Run(new Window());
         }
     }
 }

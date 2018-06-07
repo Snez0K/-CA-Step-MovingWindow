@@ -1,6 +1,6 @@
 ﻿namespace Windows
 {
-    partial class Windows
+    partial class Window
     {
         /// <summary>
         /// Обязательная переменная конструктора.
