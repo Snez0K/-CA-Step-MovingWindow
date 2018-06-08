@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace Windows
 {
-    static class Program
+    public static class Program
     {
         [STAThread]
         public static void Main()
