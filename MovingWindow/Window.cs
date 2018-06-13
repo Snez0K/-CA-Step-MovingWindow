@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Windows
+namespace MovingWindow
 {
     public partial class Window : Form
     {

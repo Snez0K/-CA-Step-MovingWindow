@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Windows
+namespace MovingWindow
 {
     public static class Program
     {

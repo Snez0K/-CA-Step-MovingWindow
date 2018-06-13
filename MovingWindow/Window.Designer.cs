@@ -1,4 +1,4 @@
-﻿namespace Windows
+﻿namespace MovingWindow
 {
     partial class Window
     {
